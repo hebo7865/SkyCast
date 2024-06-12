@@ -16,5 +16,3 @@
   - CSS
   - JS
   - Bootstrap
-
-
